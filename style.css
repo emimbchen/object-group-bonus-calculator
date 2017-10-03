@@ -1,0 +1,40 @@
+body {
+  font-family: 'Roboto', sans-serif;
+
+}
+
+h1 {
+  margin: auto;
+  display: block;
+  text-align: center;
+}
+
+table {
+border-collapse: collapse;
+border: solid 1px;
+width: auto;
+margin: auto;
+
+}
+
+button {
+padding: 10px;
+display: block;
+margin: 12px auto 16px auto;
+}
+
+th {
+border: solid 1px;
+padding: 15px;
+background-color: lightskyblue;
+}
+
+td {
+border: solid 1px;
+padding: 12px;
+}
+
+.dataRows:hover {
+  background-color: azure;
+  transition: 100ms;
+}
